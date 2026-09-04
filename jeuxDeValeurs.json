@@ -1,23 +1,68 @@
 {
     "profile": "FicheRCP",
     "version": "2025.1",
-    "baseDir": "D:\\Data\\ReseauOnco\\AAP",
+    "baseDir": "C:\\Users\\Public\\Documents\\kprocess-mapping-ans",
   "jeuxDeValeursANS": [
-    { "file": "jdv-modificateur-topographique-cisis.xml" },
-    { "file": "jdv-morphologie-cisis.xml" },
-    { "file": "jdv-phase-cancer-cisis.xml" },
-    { "file": "jdv-rcp-appareil-cisis.xml" },
-    { "file": "jdv-rcp-organe-cisis.xml" },
-    { "file": "jdv-score-performance-ecog-cisis.xml" },
-    { "file": "jdv-statut-cas-presente-cisis.xml" },
-    { "file": "jdv-traitement-soins-frcp-cisis.xml" },
-    { "file": "jdv-tumeur-cisis.xml" },
-    { "file": "jdv-type-traitement-frcp-cisis.xml" },
-    { "file": "JDV_J01_XdsAuthorSpecialty_CISIS.xml" },
-    { "file": "JDV_J02_XdsHealthcareFacilityTypeCode_CISIS.xml" },
-    { "file": "JDV_J04_XdsPracticeSettingCode_CISIS.xml" },
-    { "file": "JDV_J143_AdministrativeGender_CISIS.xml" },
-    { "file": "JDV_J246_Titre_CISIS.xml" }
+    {
+      "name": "jdv-modificateur-topographique-cisis",
+      "file": "jdv-modificateur-topographique-cisis.xml"
+    },
+    {
+      "name": "jdv-morphologie-cisis",
+      "file": "jdv-morphologie-cisis.xml"
+    },
+    {
+      "name": "jdv-phase-cancer-cisis",
+      "file": "jdv-phase-cancer-cisis.xml"
+    },
+    {
+      "name": "JdvRcpAppareilCisis",
+      "file": "jdv-rcp-appareil-cisis.xml"
+    },
+    {
+      "name": "jdv-rcp-organe-cisis",
+      "file": "jdv-rcp-organe-cisis.xml"
+    },
+    {
+      "name": "jdv-score-performance-ecog-cisis",
+      "file": "jdv-score-performance-ecog-cisis.xml"
+    },
+    {
+      "name": "jdv-statut-cas-presente-cisis",
+      "file": "jdv-statut-cas-presente-cisis.xml"
+    },
+    {
+      "name": "jdv-traitement-soins-frcp-cisis",
+      "file": "jdv-traitement-soins-frcp-cisis.xml"
+    },
+    {
+      "name": "jdv-tumeur-cisis",
+      "file": "jdv-tumeur-cisis.xml"
+    },
+    {
+      "name": "jdv-type-traitement-frcp-cisis",
+      "file": "jdv-type-traitement-frcp-cisis.xml"
+    },
+    {
+      "name": "JDV_J01_XdsAuthorSpecialty_CISIS",
+      "file": "JDV_J01_XdsAuthorSpecialty_CISIS.xml"
+    },
+    {
+      "name": "JDV_J02_XdsHealthcareFacilityTypeCode_CISIS",
+      "file": "JDV_J02_XdsHealthcareFacilityTypeCode_CISIS.xml"
+    },
+    {
+      "name": "JDV_J04_XdsPracticeSettingCode_CISIS",
+      "file": "JDV_J04_XdsPracticeSettingCode_CISIS.xml"
+    },
+    {
+      "name": "JDV_J143_AdministrativeGender_CISIS",
+      "file": "JDV_J143_AdministrativeGender_CISIS.xml"
+    },
+    {
+      "name": "JDV_J246_Titre_CISIS",
+      "file": "JDV_J246_Titre_CISIS.xml"
+    }
   ],
     "mappings": [
       { "file": "titre.json" },

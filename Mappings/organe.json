@@ -2,7 +2,7 @@
   "name": "Organe",
   "description": "Organe touché par le Cancer",
   "tableName": "dbo.tumeurs_organes",
-  "jeuDeValeursANS": "JdvRcpOrganeCisis",
+  "jeuDeValeursANS": "jdv-rcp-organe-cisis",
   "mapping": [
     {
       "kprocess": "Levre",

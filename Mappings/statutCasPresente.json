@@ -2,7 +2,7 @@
   "name": "StatutCasPresente",
   "description": "Statut du cas présenté en RCP",
   "tableName": "dbo.fiches_rcp_type_dossier_enum",
-  "jeuDeValeursANS": "JdvStatutCasPresenteCisis",
+  "jeuDeValeursANS": "jdv-statut-cas-presente-cisis",
   "mapping": [
     {
       "kprocess": "EnregistrementSimple",

@@ -1,5 +1,12 @@
 
-CREATE OR ALTER PROCEDURE dbo.comparer_mapping_KProcess_ANS
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE OR ALTER   PROCEDURE [dbo].[comparer_mapping_KProcess_ANS]
 	--@JsonSource = path du fichier jeuxDeValeurs.json
 	@JsonSource NVARCHAR(500),
 	--@DatabaseName = par exemple : 'OncoPC_DCC_test'
@@ -33,6 +40,7 @@ CREATE OR ALTER PROCEDURE dbo.comparer_mapping_KProcess_ANS
 		DECLARE @MonXml AS NVARCHAR(MAX);
 		DECLARE @XmlTable AS TABLE(nom VARCHAR(250), filename VARCHAR(500), xml NVARCHAR(MAX));
 		DECLARE @XmlCursor AS VARCHAR (MAX);
+		DECLARE @NomJeuDeValeur NVARCHAR(MAX);
 
 		DROP TABLE IF EXISTS #anomalies;
 		CREATE TABLE #anomalies (
@@ -94,19 +102,19 @@ CREATE OR ALTER PROCEDURE dbo.comparer_mapping_KProcess_ANS
 
 		SET @PathXml = @PathXml + '\JeuxDeValeurs\';
 				
-		-- Creation de curseur pour naviguer dans chaque fichier XML de l'ANS
+		-- Creation de curseur pour avancer dans les noms de chaque fichier XML de l'ANS 
 		DECLARE foreachANS CURSOR LOCAL FAST_FORWARD
-			FOR SELECT fichier
-				FROM OPENJSON (@Json, '$.jeuxDeValeursANS') WITH (fichier NVARCHAR (MAX) '$.file');
-
-
+			FOR SELECT fichier, nom
+				FROM OPENJSON (@Json, '$.jeuxDeValeursANS') 
+				WITH (fichier NVARCHAR (MAX) '$.file', nom NVARCHAR(MAX) '$.name');
 
 		OPEN foreachANS;
 
-		FETCH NEXT FROM foreachANS INTO @NomDeFichierXml;
+		FETCH NEXT FROM foreachANS INTO @NomDeFichierXml, @NomJeuDeValeur;
 		WHILE @@FETCH_STATUS = 0
 		BEGIN
 			SET @PathXmlfile = @PathXml + @NomDeFichierXml;
+			
 			--Lecture du fichier XML ANS specifique à chaque jeu de valeur
 			SET @MonSql = N'
 				DECLARE @XmlBinary VARBINARY(MAX);
@@ -118,15 +126,16 @@ CREATE OR ALTER PROCEDURE dbo.comparer_mapping_KProcess_ANS
 			PRINT 'Chargement fichier XML ' + @PathXmlFile;
 			EXECUTE sp_executesql @MonSql, N'@XmlCursor VARCHAR(MAX) OUTPUT', @XmlCursor = @XmlCursor OUTPUT;			
 
-			WITH XMLNAMESPACES ('urn:ihe:iti:svs:2008' AS ns)
-			INSERT INTO @XmlTable(nom, filename) 
+			
+			INSERT INTO @XmlTable(nom, filename, xml) 
 			SELECT
-				COALESCE(CONVERT(XML, @XmlCursor).value('(/ns:RetrieveValueSetResponse/ns:ValueSet/@name)[1]', 'NVARCHAR(500)'), CONVERT(XML, @XmlCursor).value('(/ns:RetrieveValueSetResponse/ns:ValueSet/@displayName)[1]', 'NVARCHAR(500)')),
-				@PathXmlfile
-			FETCH NEXT FROM foreachANS INTO @NomDeFichierXml;
+				@NomJeuDeValeur,
+				@PathXmlfile, 
+				@XmlCursor
+			FETCH NEXT FROM foreachANS INTO @NomDeFichierXml, @NomJeuDeValeur;
 			
 		END
-		
+		--SELECT * FROM @XmlTable;
 
 		--Creation de curseur pour naviguer dans chaque fichier json de mapping
 		DECLARE foreach CURSOR LOCAL FAST_FORWARD
@@ -153,12 +162,22 @@ CREATE OR ALTER PROCEDURE dbo.comparer_mapping_KProcess_ANS
 					';
 				EXECUTE sp_executesql @MonSql, N'@JsonCursor NVARCHAR(MAX) OUTPUT', @JsonCursor = @JsonCursor OUTPUT;
 
+				SET @NomDeFichierXml = NULL;
+				
 				SELECT @nomDeFichierXml = X.filename
 					FROM @XmlTable AS X,
 						OPENJSON (@JsonCursor) WITH (fichierXML NVARCHAR (MAX) '$.jeuDeValeursANS') AS J
 					WHERE X.nom = J.fichierXML
-				PRINT 'nomDeFichierXml : '+@nomDeFichierXml; 
-				SET @PathXmlFile = @NomDeFichierXml --+ '.xml';
+				IF @nomDeFichierXml IS NULL
+					BEGIN
+						PRINT 'Aucun élément trouvé pour le fichier XML.';
+					END
+					ELSE
+					BEGIN
+						PRINT 'nomDeFichierXml : '+@nomDeFichierXml; 
+						SET @PathXmlFile = @NomDeFichierXml --+ '.xml';
+					END
+				
 				
 				TRUNCATE TABLE #valeurs_xml_ans;
 
@@ -361,6 +380,7 @@ CREATE OR ALTER PROCEDURE dbo.comparer_mapping_KProcess_ANS
 						code_system NVARCHAR(50) ''$.codeSystem''
 						) adv;
 
+					
 					DROP TABLE IF EXISTS #recap;
 					CREATE TABLE #recap(
 						j_kprocess NVARCHAR(500),
@@ -394,6 +414,8 @@ CREATE OR ALTER PROCEDURE dbo.comparer_mapping_KProcess_ANS
 						AND x_code NOT IN (SELECT i_code FROM #ignoresValues WHERE i_code IS NOT NULL) 
 						AND x_code NOT IN (SELECT adv_code FROM #jsonValues WHERE adv_code IS NOT NULL)
 						
+
+
 						INSERT INTO #anomalies(profil, version, fichier_json_name, name, table_name, jeux_de_valeurs_name, 
 											j_kprocess, j_code, j_code_system, j_ignored_values, j_additional_values,
 											x_code, x_code_system,
@@ -537,3 +559,5 @@ CREATE OR ALTER PROCEDURE dbo.comparer_mapping_KProcess_ANS
 
 	END
 GO
+
+
