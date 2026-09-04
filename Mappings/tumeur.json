@@ -5,32 +5,32 @@
   "jeuDeValeursANS": "JdvTumeurCisis",
   "mapping": [
     {
-      "kprocess": "B211",
+      "kprocess": "B21.1",
       "code": "B21.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "B212",
+      "kprocess": "B21.2",
       "code": "B21.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "B213",
+      "kprocess": "B21.3",
       "code": "B21.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "B217",
+      "kprocess": "B21.7",
       "code": "B21.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "B218",
+      "kprocess": "B21.8",
       "code": "B21.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "B219",
+      "kprocess": "B21.9",
       "code": "B21.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -40,47 +40,47 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C000",
+      "kprocess": "C00.0",
       "code": "C00.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C001",
+      "kprocess": "C00.1",
       "code": "C00.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C002",
+      "kprocess": "C00.2",
       "code": "C00.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C003",
+      "kprocess": "C00.3",
       "code": "C00.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C004",
+      "kprocess": "C00.4",
       "code": "C00.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C005",
+      "kprocess": "C00.5",
       "code": "C00.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C006",
+      "kprocess": "C00.6",
       "code": "C00.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C008",
+      "kprocess": "C00.8",
       "code": "C00.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C009",
+      "kprocess": "C00.9",
       "code": "C00.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -95,37 +95,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C020",
+      "kprocess": "C02.0",
       "code": "C02.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C021",
+      "kprocess": "C02.1",
       "code": "C02.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C022",
+      "kprocess": "C02.2",
       "code": "C02.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C023",
+      "kprocess": "C02.3",
       "code": "C02.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C024",
+      "kprocess": "C02.4",
       "code": "C02.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C028",
+      "kprocess": "C02.8",
       "code": "C02.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C029",
+      "kprocess": "C02.9",
       "code": "C02.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -135,17 +135,17 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C030",
+      "kprocess": "C03.0",
       "code": "C03.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C031",
+      "kprocess": "C03.1",
       "code": "C03.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C039",
+      "kprocess": "C03.9",
       "code": "C03.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -155,17 +155,17 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C040",
+      "kprocess": "C04.0",
       "code": "C04.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C041",
+      "kprocess": "C04.1",
       "code": "C04.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "B210",
+      "kprocess": "B21.0",
       "code": "B21.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -175,12 +175,12 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C048",
+      "kprocess": "C04.8",
       "code": "C04.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C049",
+      "kprocess": "C04.9",
       "code": "C04.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -190,27 +190,27 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C050",
+      "kprocess": "C05.0",
       "code": "C05.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C051",
+      "kprocess": "C05.1",
       "code": "C05.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C052",
+      "kprocess": "C05.2",
       "code": "C05.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C058",
+      "kprocess": "C05.8",
       "code": "C05.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C059",
+      "kprocess": "C05.9",
       "code": "C05.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -220,27 +220,27 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C060",
+      "kprocess": "C06.0",
       "code": "C06.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C061",
+      "kprocess": "C06.1",
       "code": "C06.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C062",
+      "kprocess": "C06.2",
       "code": "C06.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C068",
+      "kprocess": "C06.8",
       "code": "C06.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C069",
+      "kprocess": "C06.9",
       "code": "C06.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -255,22 +255,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C080",
+      "kprocess": "C08.0",
       "code": "C08.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C081",
+      "kprocess": "C08.1",
       "code": "C08.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C088",
+      "kprocess": "C08.8",
       "code": "C08.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C089",
+      "kprocess": "C08.9",
       "code": "C08.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -280,22 +280,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C090",
+      "kprocess": "C09.0",
       "code": "C09.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C091",
+      "kprocess": "C09.1",
       "code": "C09.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C098",
+      "kprocess": "C09.8",
       "code": "C09.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C099",
+      "kprocess": "C09.9",
       "code": "C09.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -305,37 +305,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C100",
+      "kprocess": "C10.0",
       "code": "C10.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C101",
+      "kprocess": "C10.1",
       "code": "C10.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C102",
+      "kprocess": "C10.2",
       "code": "C10.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C103",
+      "kprocess": "C10.3",
       "code": "C10.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C104",
+      "kprocess": "C10.4",
       "code": "C10.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C108",
+      "kprocess": "C10.8",
       "code": "C10.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C109",
+      "kprocess": "C10.9",
       "code": "C10.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -345,32 +345,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C110",
+      "kprocess": "C11.0",
       "code": "C11.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C111",
+      "kprocess": "C11.1",
       "code": "C11.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C112",
+      "kprocess": "C11.2",
       "code": "C11.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C113",
+      "kprocess": "C11.3",
       "code": "C11.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C118",
+      "kprocess": "C11.8",
       "code": "C11.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C119",
+      "kprocess": "C11.9",
       "code": "C11.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -385,27 +385,27 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C130",
+      "kprocess": "C13.0",
       "code": "C13.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C131",
+      "kprocess": "C13.1",
       "code": "C13.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C132",
+      "kprocess": "C13.2",
       "code": "C13.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C138",
+      "kprocess": "C13.8",
       "code": "C13.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C139",
+      "kprocess": "C13.9",
       "code": "C13.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -415,21 +415,21 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C140",
+      "kprocess": "C14.0",
       "code": "C14.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C141",
+      "kprocess": "C14.1",
       "moveTo": "C139"
     },
     {
-      "kprocess": "C142",
+      "kprocess": "C14.2",
       "code": "C14.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C148",
+      "kprocess": "C14.8",
       "code": "C14.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -439,42 +439,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C150",
+      "kprocess": "C15.0",
       "code": "C15.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C151",
+      "kprocess": "C15.1",
       "code": "C15.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C152",
+      "kprocess": "C15.2",
       "code": "C15.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C153",
+      "kprocess": "C15.3",
       "code": "C15.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C154",
+      "kprocess": "C15.4",
       "code": "C15.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C155",
+      "kprocess": "C15.5",
       "code": "C15.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C158",
+      "kprocess": "C15.8",
       "code": "C15.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C159",
+      "kprocess": "C15.9",
       "code": "C15.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -484,57 +484,57 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C160",
+      "kprocess": "C16.0",
       "code": "C16.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C161",
+      "kprocess": "C16.1",
       "code": "C16.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C162",
+      "kprocess": "C16.2",
       "code": "C16.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C163",
+      "kprocess": "C16.3",
       "code": "C16.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C164",
+      "kprocess": "C16.4",
       "code": "C16.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C165",
+      "kprocess": "C16.5",
       "code": "C16.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C166",
+      "kprocess": "C16.6",
       "code": "C16.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C168",
+      "kprocess": "C16.8",
       "code": "C16.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C169",
+      "kprocess": "C16.9",
       "code": "C16.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C169+0",
+      "kprocess": "C16.9+0",
       "code": "C16.9+0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C169+8",
+      "kprocess": "C16.9+8",
       "code": "C16.9+8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -544,32 +544,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C170",
+      "kprocess": "C17.0",
       "code": "C17.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C171",
+      "kprocess": "C17.1",
       "code": "C17.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C172",
+      "kprocess": "C17.2",
       "code": "C17.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C173",
+      "kprocess": "C17.3",
       "code": "C17.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C178",
+      "kprocess": "C17.8",
       "code": "C17.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C179",
+      "kprocess": "C17.9",
       "code": "C17.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -579,62 +579,62 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C180",
+      "kprocess": "C18.0",
       "code": "C18.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C181",
+      "kprocess": "C18.1",
       "code": "C18.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C182",
+      "kprocess": "C18.2",
       "code": "C18.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C183",
+      "kprocess": "C18.3",
       "code": "C18.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C184",
+      "kprocess": "C18.4",
       "code": "C18.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C185",
+      "kprocess": "C18.5",
       "code": "C18.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C186",
+      "kprocess": "C18.6",
       "code": "C18.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C187",
+      "kprocess": "C18.7",
       "code": "C18.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C188",
+      "kprocess": "C18.8",
       "code": "C18.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C189",
+      "kprocess": "C18.9",
       "code": "C18.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C189+0",
+      "kprocess": "C18.9+0",
       "code": "C18.9+0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C189+8",
+      "kprocess": "C18.9+8",
       "code": "C18.9+8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -654,22 +654,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C210",
+      "kprocess": "C21.0",
       "code": "C21.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C211",
+      "kprocess": "C21.1",
       "code": "C21.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C212",
+      "kprocess": "C21.2",
       "code": "C21.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C218",
+      "kprocess": "C21.8",
       "code": "C21.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -679,37 +679,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C220",
+      "kprocess": "C22.0",
       "code": "C22.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C221",
+      "kprocess": "C22.1",
       "code": "C22.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C222",
+      "kprocess": "C22.2",
       "code": "C22.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C223",
+      "kprocess": "C22.3",
       "code": "C22.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C224",
+      "kprocess": "C22.4",
       "code": "C22.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C227",
+      "kprocess": "C22.7",
       "code": "C22.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C229",
+      "kprocess": "C22.9",
       "code": "C22.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -724,22 +724,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C240",
+      "kprocess": "C24.0",
       "code": "C24.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C241",
+      "kprocess": "C24.1",
       "code": "C24.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C248",
+      "kprocess": "C24.8",
       "code": "C24.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C249",
+      "kprocess": "C24.9",
       "code": "C24.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -749,62 +749,62 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C250",
+      "kprocess": "C25.0",
       "code": "C25.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C251",
+      "kprocess": "C25.1",
       "code": "C25.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C252",
+      "kprocess": "C25.2",
       "code": "C25.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C253",
+      "kprocess": "C25.3",
       "code": "C25.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C254",
+      "kprocess": "C25.4",
       "code": "C25.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C254+0",
+      "kprocess": "C25.4+0",
       "code": "C25.4+0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C254+8",
+      "kprocess": "C25.4+8",
       "code": "C25.4+8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C257",
+      "kprocess": "C25.7",
       "code": "C25.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C258",
+      "kprocess": "C25.8",
       "code": "C25.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C259",
+      "kprocess": "C25.9",
       "code": "C25.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C259+0",
+      "kprocess": "C25.9+0",
       "code": "C25.9+0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C259+8",
+      "kprocess": "C25.9+8",
       "code": "C25.9+8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -814,22 +814,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C260",
+      "kprocess": "C26.0",
       "code": "C26.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C261",
+      "kprocess": "C26.1",
       "code": "C26.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C268",
+      "kprocess": "C26.8",
       "code": "C26.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C269",
+      "kprocess": "C26.9",
       "code": "C26.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -839,12 +839,12 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C300",
+      "kprocess": "C30.0",
       "code": "C30.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C301",
+      "kprocess": "C30.1",
       "code": "C30.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -854,32 +854,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C310",
+      "kprocess": "C31.0",
       "code": "C31.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C311",
+      "kprocess": "C31.1",
       "code": "C31.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C312",
+      "kprocess": "C31.2",
       "code": "C31.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C313",
+      "kprocess": "C31.3",
       "code": "C31.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C318",
+      "kprocess": "C31.8",
       "code": "C31.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C319",
+      "kprocess": "C31.9",
       "code": "C31.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -889,32 +889,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C320",
+      "kprocess": "C32.0",
       "code": "C32.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C321",
+      "kprocess": "C32.1",
       "code": "C32.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C322",
+      "kprocess": "C32.2",
       "code": "C32.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C323",
+      "kprocess": "C32.3",
       "code": "C32.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C328",
+      "kprocess": "C32.8",
       "code": "C32.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C329",
+      "kprocess": "C32.9",
       "code": "C32.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -929,32 +929,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C340",
+      "kprocess": "C34.0",
       "code": "C34.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C341",
+      "kprocess": "C34.1",
       "code": "C34.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C342",
+      "kprocess": "C34.2",
       "code": "C34.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C343",
+      "kprocess": "C34.3",
       "code": "C34.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C348",
+      "kprocess": "C34.8",
       "code": "C34.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C349",
+      "kprocess": "C34.9",
       "code": "C34.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -969,32 +969,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C380",
+      "kprocess": "C38.0",
       "code": "C38.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C381",
+      "kprocess": "C38.1",
       "code": "C38.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C382",
+      "kprocess": "C38.2",
       "code": "C38.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C383",
+      "kprocess": "C38.3",
       "code": "C38.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C384",
+      "kprocess": "C38.4",
       "code": "C38.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C388",
+      "kprocess": "C38.8",
       "code": "C38.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1004,17 +1004,17 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C390",
+      "kprocess": "C39.0",
       "code": "C39.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C398",
+      "kprocess": "C39.8",
       "code": "C39.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C399",
+      "kprocess": "C39.9",
       "code": "C39.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1024,32 +1024,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C400",
+      "kprocess": "C40.0",
       "code": "C40.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C401",
+      "kprocess": "C40.1",
       "code": "C40.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C402",
+      "kprocess": "C40.2",
       "code": "C40.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C403",
+      "kprocess": "C40.3",
       "code": "C40.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C408",
+      "kprocess": "C40.8",
       "code": "C40.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C409",
+      "kprocess": "C40.9",
       "code": "C40.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1059,37 +1059,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C410",
+      "kprocess": "C41.0",
       "code": "C41.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C411",
+      "kprocess": "C41.1",
       "code": "C41.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C412",
+      "kprocess": "C41.2",
       "code": "C41.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C413",
+      "kprocess": "C41.3",
       "code": "C41.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C414",
+      "kprocess": "C41.4",
       "code": "C41.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C418",
+      "kprocess": "C41.8",
       "code": "C41.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C419",
+      "kprocess": "C41.9",
       "code": "C41.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1099,52 +1099,52 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C430",
+      "kprocess": "C43.0",
       "code": "C43.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C431",
+      "kprocess": "C43.1",
       "code": "C43.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C432",
+      "kprocess": "C43.2",
       "code": "C43.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C433",
+      "kprocess": "C43.3",
       "code": "C43.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C434",
+      "kprocess": "C43.4",
       "code": "C43.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C435",
+      "kprocess": "C43.5",
       "code": "C43.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C436",
+      "kprocess": "C43.6",
       "code": "C43.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C437",
+      "kprocess": "C43.7",
       "code": "C43.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C438",
+      "kprocess": "C43.8",
       "code": "C43.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C439",
+      "kprocess": "C43.9",
       "code": "C43.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1154,52 +1154,52 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C440",
+      "kprocess": "C44.0",
       "code": "C44.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C441",
+      "kprocess": "C44.1",
       "code": "C44.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C442",
+      "kprocess": "C44.2",
       "code": "C44.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C443",
+      "kprocess": "C44.3",
       "code": "C44.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C444",
+      "kprocess": "C44.4",
       "code": "C44.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C445",
+      "kprocess": "C44.5",
       "code": "C44.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C446",
+      "kprocess": "C44.6",
       "code": "C44.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C447",
+      "kprocess": "C44.7",
       "code": "C44.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C448",
+      "kprocess": "C44.8",
       "code": "C44.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C449",
+      "kprocess": "C44.9",
       "code": "C44.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1209,27 +1209,27 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C450",
+      "kprocess": "C45.0",
       "code": "C45.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C451",
+      "kprocess": "C45.1",
       "code": "C45.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C452",
+      "kprocess": "C45.2",
       "code": "C45.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C457",
+      "kprocess": "C45.7",
       "code": "C45.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C459",
+      "kprocess": "C45.9",
       "code": "C45.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1239,57 +1239,57 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C460",
+      "kprocess": "C46.0",
       "code": "C46.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C461",
+      "kprocess": "C46.1",
       "code": "C46.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C462",
+      "kprocess": "C46.2",
       "code": "C46.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C463",
+      "kprocess": "C46.3",
       "code": "C46.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C467",
+      "kprocess": "C46.7",
       "code": "C46.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4670",
+      "kprocess": "C46.70",
       "code": "C46.70",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4671",
+      "kprocess": "C46.71",
       "code": "C46.71",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4672",
+      "kprocess": "C46.72",
       "code": "C46.72",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4678",
+      "kprocess": "C46.78",
       "code": "C46.78",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C468",
+      "kprocess": "C46.8",
       "code": "C46.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C469",
+      "kprocess": "C46.9",
       "code": "C46.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1299,47 +1299,47 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C470",
+      "kprocess": "C47.0",
       "code": "C47.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C471",
+      "kprocess": "C47.1",
       "code": "C47.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C472",
+      "kprocess": "C47.2",
       "code": "C47.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C473",
+      "kprocess": "C47.3",
       "code": "C47.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C474",
+      "kprocess": "C47.4",
       "code": "C47.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C475",
+      "kprocess": "C47.5",
       "code": "C47.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C476",
+      "kprocess": "C47.6",
       "code": "C47.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C478",
+      "kprocess": "C47.8",
       "code": "C47.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C479",
+      "kprocess": "C47.9",
       "code": "C47.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1349,22 +1349,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C480",
+      "kprocess": "C48.0",
       "code": "C48.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C481",
+      "kprocess": "C48.1",
       "code": "C48.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C482",
+      "kprocess": "C48.2",
       "code": "C48.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C488",
+      "kprocess": "C48.8",
       "code": "C48.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1374,77 +1374,77 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C490",
+      "kprocess": "C49.0",
       "code": "C49.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C491",
+      "kprocess": "C49.1",
       "code": "C49.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C492",
+      "kprocess": "C49.2",
       "code": "C49.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C493",
+      "kprocess": "C49.3",
       "code": "C49.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4930",
+      "kprocess": "C49.30",
       "code": "C49.30",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4938",
+      "kprocess": "C49.38",
       "code": "C49.38",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C494",
+      "kprocess": "C49.4",
       "code": "C49.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4940",
+      "kprocess": "C49.40",
       "code": "C49.40",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4948",
+      "kprocess": "C49.48",
       "code": "C49.48",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C495",
+      "kprocess": "C49.5",
       "code": "C49.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4950",
+      "kprocess": "C49.50",
       "code": "C49.50",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C4958",
+      "kprocess": "C49.58",
       "code": "C49.58",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C496",
+      "kprocess": "C49.6",
       "code": "C49.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C498",
+      "kprocess": "C49.8",
       "code": "C49.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C499",
+      "kprocess": "C49.9",
       "code": "C49.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1454,47 +1454,47 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C500",
+      "kprocess": "C50.0",
       "code": "C50.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C501",
+      "kprocess": "C50.1",
       "code": "C50.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C502",
+      "kprocess": "C50.2",
       "code": "C50.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C503",
+      "kprocess": "C50.3",
       "code": "C50.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C504",
+      "kprocess": "C50.4",
       "code": "C50.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C505",
+      "kprocess": "C50.5",
       "code": "C50.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C506",
+      "kprocess": "C50.6",
       "code": "C50.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C508",
+      "kprocess": "C50.8",
       "code": "C50.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C509",
+      "kprocess": "C50.9",
       "code": "C50.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1504,27 +1504,27 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C510",
+      "kprocess": "C51.0",
       "code": "C51.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C511",
+      "kprocess": "C51.1",
       "code": "C51.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C512",
+      "kprocess": "C51.2",
       "code": "C51.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C518",
+      "kprocess": "C51.8",
       "code": "C51.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C519",
+      "kprocess": "C51.9",
       "code": "C51.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1539,22 +1539,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C530",
+      "kprocess": "C53.0",
       "code": "C53.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C531",
+      "kprocess": "C53.1",
       "code": "C53.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C538",
+      "kprocess": "C53.8",
       "code": "C53.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C539",
+      "kprocess": "C53.9",
       "code": "C53.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1564,32 +1564,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C540",
+      "kprocess": "C54.0",
       "code": "C54.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C541",
+      "kprocess": "C54.1",
       "code": "C54.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C542",
+      "kprocess": "C54.2",
       "code": "C54.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C543",
+      "kprocess": "C54.3",
       "code": "C54.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C548",
+      "kprocess": "C54.8",
       "code": "C54.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C549",
+      "kprocess": "C54.9",
       "code": "C54.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1609,42 +1609,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C570",
+      "kprocess": "C57.0",
       "code": "C57.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C571",
+      "kprocess": "C57.1",
       "code": "C57.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C572",
+      "kprocess": "C57.2",
       "code": "C57.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C573",
+      "kprocess": "C57.3",
       "code": "C57.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C574",
+      "kprocess": "C57.4",
       "code": "C57.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C577",
+      "kprocess": "C57.7",
       "code": "C57.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C578",
+      "kprocess": "C57.8",
       "code": "C57.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C579",
+      "kprocess": "C57.9",
       "code": "C57.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1659,27 +1659,27 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C600",
+      "kprocess": "C60.0",
       "code": "C60.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C601",
+      "kprocess": "C60.1",
       "code": "C60.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C602",
+      "kprocess": "C60.2",
       "code": "C60.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C608",
+      "kprocess": "C60.8",
       "code": "C60.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C609",
+      "kprocess": "C60.9",
       "code": "C60.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1694,17 +1694,17 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C620",
+      "kprocess": "C62.0",
       "code": "C62.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C621",
+      "kprocess": "C62.1",
       "code": "C62.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C629",
+      "kprocess": "C62.9",
       "code": "C62.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1714,32 +1714,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C630",
+      "kprocess": "C63.0",
       "code": "C63.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C631",
+      "kprocess": "C63.1",
       "code": "C63.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C632",
+      "kprocess": "C63.2",
       "code": "C63.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C637",
+      "kprocess": "C63.7",
       "code": "C63.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C638",
+      "kprocess": "C63.8",
       "code": "C63.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C639",
+      "kprocess": "C63.9",
       "code": "C63.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1764,52 +1764,52 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C670",
+      "kprocess": "C67.0",
       "code": "C67.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C671",
+      "kprocess": "C67.1",
       "code": "C67.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C672",
+      "kprocess": "C67.2",
       "code": "C67.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C673",
+      "kprocess": "C67.3",
       "code": "C67.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C674",
+      "kprocess": "C67.4",
       "code": "C67.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C675",
+      "kprocess": "C67.5",
       "code": "C67.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C676",
+      "kprocess": "C67.6",
       "code": "C67.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C677",
+      "kprocess": "C67.7",
       "code": "C67.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C678",
+      "kprocess": "C67.8",
       "code": "C67.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C679",
+      "kprocess": "C67.9",
       "code": "C67.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1819,22 +1819,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C680",
+      "kprocess": "C68.0",
       "code": "C68.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C681",
+      "kprocess": "C68.1",
       "code": "C68.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C688",
+      "kprocess": "C68.8",
       "code": "C68.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C689",
+      "kprocess": "C68.9",
       "code": "C68.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1844,47 +1844,47 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C690",
+      "kprocess": "C69.0",
       "code": "C69.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C691",
+      "kprocess": "C69.1",
       "code": "C69.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C692",
+      "kprocess": "C69.2",
       "code": "C69.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C693",
+      "kprocess": "C69.3",
       "code": "C69.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C694",
+      "kprocess": "C69.4",
       "code": "C69.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C695",
+      "kprocess": "C69.5",
       "code": "C69.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C696",
+      "kprocess": "C69.6",
       "code": "C69.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C698",
+      "kprocess": "C69.8",
       "code": "C69.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C699",
+      "kprocess": "C69.9",
       "code": "C69.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1894,17 +1894,17 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C700",
+      "kprocess": "C70.0",
       "code": "C70.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C701",
+      "kprocess": "C70.1",
       "code": "C70.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C709",
+      "kprocess": "C70.9",
       "code": "C70.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1914,52 +1914,52 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C710",
+      "kprocess": "C71.0",
       "code": "C71.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C711",
+      "kprocess": "C71.1",
       "code": "C71.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C712",
+      "kprocess": "C71.2",
       "code": "C71.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C713",
+      "kprocess": "C71.3",
       "code": "C71.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C714",
+      "kprocess": "C71.4",
       "code": "C71.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C715",
+      "kprocess": "C71.5",
       "code": "C71.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C716",
+      "kprocess": "C71.6",
       "code": "C71.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C717",
+      "kprocess": "C71.7",
       "code": "C71.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C718",
+      "kprocess": "C71.8",
       "code": "C71.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C719",
+      "kprocess": "C71.9",
       "code": "C71.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -1969,42 +1969,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C720",
+      "kprocess": "C72.0",
       "code": "C72.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C721",
+      "kprocess": "C72.1",
       "code": "C72.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C722",
+      "kprocess": "C72.2",
       "code": "C72.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C723",
+      "kprocess": "C72.3",
       "code": "C72.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C724",
+      "kprocess": "C72.4",
       "code": "C72.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C725",
+      "kprocess": "C72.5",
       "code": "C72.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C728",
+      "kprocess": "C72.8",
       "code": "C72.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C729",
+      "kprocess": "C72.9",
       "code": "C72.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2019,17 +2019,17 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C740",
+      "kprocess": "C74.0",
       "code": "C74.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C741",
+      "kprocess": "C74.1",
       "code": "C74.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C749",
+      "kprocess": "C74.9",
       "code": "C74.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2039,42 +2039,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C750",
+      "kprocess": "C75.0",
       "code": "C75.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C751",
+      "kprocess": "C75.1",
       "code": "C75.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C752",
+      "kprocess": "C75.2",
       "code": "C75.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C753",
+      "kprocess": "C75.3",
       "code": "C75.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C754",
+      "kprocess": "C75.4",
       "code": "C75.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C755",
+      "kprocess": "C75.5",
       "code": "C75.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C758",
+      "kprocess": "C75.8",
       "code": "C75.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C759",
+      "kprocess": "C75.9",
       "code": "C75.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2084,42 +2084,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C760",
+      "kprocess": "C76.0",
       "code": "C76.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C761",
+      "kprocess": "C76.1",
       "code": "C76.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C762",
+      "kprocess": "C76.2",
       "code": "C76.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C763",
+      "kprocess": "C76.3",
       "code": "C76.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C764",
+      "kprocess": "C76.4",
       "code": "C76.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C765",
+      "kprocess": "C76.5",
       "code": "C76.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C767",
+      "kprocess": "C76.7",
       "code": "C76.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C768",
+      "kprocess": "C76.8",
       "code": "C76.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2129,42 +2129,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C770",
+      "kprocess": "C77.0",
       "code": "C77.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C771",
+      "kprocess": "C77.1",
       "code": "C77.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C772",
+      "kprocess": "C77.2",
       "code": "C77.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C773",
+      "kprocess": "C77.3",
       "code": "C77.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C774",
+      "kprocess": "C77.4",
       "code": "C77.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C775",
+      "kprocess": "C77.5",
       "code": "C77.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C778",
+      "kprocess": "C77.8",
       "code": "C77.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C779",
+      "kprocess": "C77.9",
       "code": "C77.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2174,47 +2174,47 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C780",
+      "kprocess": "C78.0",
       "code": "C78.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C781",
+      "kprocess": "C78.1",
       "code": "C78.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C782",
+      "kprocess": "C78.2",
       "code": "C78.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C783",
+      "kprocess": "C78.3",
       "code": "C78.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C784",
+      "kprocess": "C78.4",
       "code": "C78.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C785",
+      "kprocess": "C78.5",
       "code": "C78.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C786",
+      "kprocess": "C78.6",
       "code": "C78.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C787",
+      "kprocess": "C78.7",
       "code": "C78.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C788",
+      "kprocess": "C78.8",
       "code": "C78.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2224,52 +2224,52 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C790",
+      "kprocess": "C79.0",
       "code": "C79.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C791",
+      "kprocess": "C79.1",
       "code": "C79.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C792",
+      "kprocess": "C79.2",
       "code": "C79.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C793",
+      "kprocess": "C79.3",
       "code": "C79.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C794",
+      "kprocess": "C79.4",
       "code": "C79.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C795",
+      "kprocess": "C79.5",
       "code": "C79.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C796",
+      "kprocess": "C79.6",
       "code": "C79.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C797",
+      "kprocess": "C79.7",
       "code": "C79.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C798",
+      "kprocess": "C79.8",
       "code": "C79.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C799",
+      "kprocess": "C79.9",
       "code": "C79.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2279,12 +2279,12 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C800",
+      "kprocess": "C80.0",
       "code": "C80.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C809",
+      "kprocess": "C80.9",
       "code": "C80.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2294,37 +2294,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C810",
+      "kprocess": "C81.0",
       "code": "C81.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C811",
+      "kprocess": "C81.1",
       "code": "C81.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C812",
+      "kprocess": "C81.2",
       "code": "C81.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C813",
+      "kprocess": "C81.3",
       "code": "C81.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C814",
+      "kprocess": "C81.4",
       "code": "C81.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C817",
+      "kprocess": "C81.7",
       "code": "C81.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C819",
+      "kprocess": "C81.9",
       "code": "C81.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2334,47 +2334,47 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C820",
+      "kprocess": "C82.0",
       "code": "C82.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C821",
+      "kprocess": "C82.1",
       "code": "C82.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C822",
+      "kprocess": "C82.2",
       "code": "C82.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C823",
+      "kprocess": "C82.3",
       "code": "C82.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C824",
+      "kprocess": "C82.4",
       "code": "C82.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C825",
+      "kprocess": "C82.5",
       "code": "C82.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C826",
+      "kprocess": "C82.6",
       "code": "C82.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C827",
+      "kprocess": "C82.7",
       "code": "C82.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C829",
+      "kprocess": "C82.9",
       "code": "C82.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2384,37 +2384,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C830",
+      "kprocess": "C83.0",
       "code": "C83.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C831",
+      "kprocess": "C83.1",
       "code": "C83.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C833",
+      "kprocess": "C83.3",
       "code": "C83.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C835",
+      "kprocess": "C83.5",
       "code": "C83.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C837",
+      "kprocess": "C83.7",
       "code": "C83.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C838",
+      "kprocess": "C83.8",
       "code": "C83.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C839",
+      "kprocess": "C83.9",
       "code": "C83.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2424,42 +2424,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C840",
+      "kprocess": "C84.0",
       "code": "C84.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C841",
+      "kprocess": "C84.1",
       "code": "C84.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C844",
+      "kprocess": "C84.4",
       "code": "C84.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C845",
+      "kprocess": "C84.5",
       "code": "C84.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C846",
+      "kprocess": "C84.6",
       "code": "C84.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C847",
+      "kprocess": "C84.7",
       "code": "C84.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C848",
+      "kprocess": "C84.8",
       "code": "C84.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C849",
+      "kprocess": "C84.9",
       "code": "C84.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2469,26 +2469,26 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C850",
+      "kprocess": "C85.0",
       "toDelete": true
     },
     {
-      "kprocess": "C851",
+      "kprocess": "C85.1",
       "code": "C85.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C852",
+      "kprocess": "C85.2",
       "code": "C85.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C857",
+      "kprocess": "C85.7",
       "code": "C85.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C859",
+      "kprocess": "C85.9",
       "code": "C85.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2498,37 +2498,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C860",
+      "kprocess": "C86.0",
       "code": "C86.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C861",
+      "kprocess": "C86.1",
       "code": "C86.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C862",
+      "kprocess": "C86.2",
       "code": "C86.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C863",
+      "kprocess": "C86.3",
       "code": "C86.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C864",
+      "kprocess": "C86.4",
       "code": "C86.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C865",
+      "kprocess": "C86.5",
       "code": "C86.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C866",
+      "kprocess": "C86.6",
       "code": "C86.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2538,36 +2538,36 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C880",
+      "kprocess": "C88.0",
       "code": "C88.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C881",
+      "kprocess": "C88.1",
       "toDelete": true
     },
     {
-      "kprocess": "C882",
+      "kprocess": "C88.2",
       "code": "C88.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C883",
+      "kprocess": "C88.3",
       "code": "C88.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C884",
+      "kprocess": "C88.4",
       "code": "C88.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C887",
+      "kprocess": "C88.7",
       "code": "C88.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C889",
+      "kprocess": "C88.9",
       "code": "C88.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2577,22 +2577,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C900",
+      "kprocess": "C90.0",
       "code": "C90.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C901",
+      "kprocess": "C90.1",
       "code": "C90.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C902",
+      "kprocess": "C90.2",
       "code": "C90.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C903",
+      "kprocess": "C90.3",
       "code": "C90.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2602,47 +2602,47 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C910",
+      "kprocess": "C91.0",
       "code": "C91.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C911",
+      "kprocess": "C91.1",
       "code": "C91.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C913",
+      "kprocess": "C91.3",
       "code": "C91.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C914",
+      "kprocess": "C91.4",
       "code": "C91.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C915",
+      "kprocess": "C91.5",
       "code": "C91.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C916",
+      "kprocess": "C91.6",
       "code": "C91.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C917",
+      "kprocess": "C91.7",
       "code": "C91.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C918",
+      "kprocess": "C91.8",
       "code": "C91.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C919",
+      "kprocess": "C91.9",
       "code": "C91.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2652,52 +2652,52 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C920",
+      "kprocess": "C92.0",
       "code": "C92.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C921",
+      "kprocess": "C92.1",
       "code": "C92.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C922",
+      "kprocess": "C92.2",
       "code": "C92.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C923",
+      "kprocess": "C92.3",
       "code": "C92.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C924",
+      "kprocess": "C92.4",
       "code": "C92.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C925",
+      "kprocess": "C92.5",
       "code": "C92.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C926",
+      "kprocess": "C92.6",
       "code": "C92.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C927",
+      "kprocess": "C92.7",
       "code": "C92.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C928",
+      "kprocess": "C92.8",
       "code": "C92.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C929",
+      "kprocess": "C92.9",
       "code": "C92.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2707,32 +2707,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C930",
+      "kprocess": "C93.0",
       "code": "C93.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
 
     {
-      "kprocess": "C931",
+      "kprocess": "C93.1",
       "code": "C93.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C932",
+      "kprocess": "C93.2",
       "toDelete": true
     },
     {
-      "kprocess": "C933",
+      "kprocess": "C93.3",
       "code": "C93.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C937",
+      "kprocess": "C93.7",
       "code": "C93.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C939",
+      "kprocess": "C93.9",
       "code": "C93.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2742,32 +2742,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C940",
+      "kprocess": "C94.0",
       "code": "C94.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C942",
+      "kprocess": "C94.2",
       "code": "C94.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C943",
+      "kprocess": "C94.3",
       "code": "C94.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C944",
+      "kprocess": "C94.4",
       "code": "C94.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C946",
+      "kprocess": "C94.6",
       "code": "C94.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C947",
+      "kprocess": "C94.7",
       "code": "C94.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2777,26 +2777,26 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C950",
+      "kprocess": "C95.0",
       "code": "C95.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C951",
+      "kprocess": "C95.1",
       "code": "C95.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C952",
+      "kprocess": "C95.2",
       "toDelete": true
     },
     {
-      "kprocess": "C957",
+      "kprocess": "C95.7",
       "code": "C95.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C959",
+      "kprocess": "C95.9",
       "code": "C95.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2806,47 +2806,47 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C960",
+      "kprocess": "C96.0",
       "code": "C96.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C962",
+      "kprocess": "C96.2",
       "code": "C96.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C963",
+      "kprocess": "C96.3",
       "toDelete": true
     },
 
     {
-      "kprocess": "C964",
+      "kprocess": "C96.4",
       "code": "C96.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C965",
+      "kprocess": "C96.5",
       "code": "C96.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C966",
+      "kprocess": "C96.6",
       "code": "C96.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C967",
+      "kprocess": "C96.7",
       "code": "C96.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C968",
+      "kprocess": "C96.8",
       "code": "C96.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "C969",
+      "kprocess": "C96.9",
       "code": "C96.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2861,17 +2861,17 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D000",
+      "kprocess": "D00.0",
       "code": "D00.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D001",
+      "kprocess": "D00.1",
       "code": "D00.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D002",
+      "kprocess": "D00.2",
       "code": "D00.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2881,42 +2881,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D010",
+      "kprocess": "D01.0",
       "code": "D01.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D011",
+      "kprocess": "D01.1",
       "code": "D01.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D012",
+      "kprocess": "D01.2",
       "code": "D01.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D013",
+      "kprocess": "D01.3",
       "code": "D01.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D014",
+      "kprocess": "D01.4",
       "code": "D01.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D015",
+      "kprocess": "D01.5",
       "code": "D01.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D017",
+      "kprocess": "D01.7",
       "code": "D01.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D019",
+      "kprocess": "D01.9",
       "code": "D01.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2926,27 +2926,27 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D020",
+      "kprocess": "D02.0",
       "code": "D02.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D021",
+      "kprocess": "D02.1",
       "code": "D02.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D022",
+      "kprocess": "D02.2",
       "code": "D02.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D023",
+      "kprocess": "D02.3",
       "code": "D02.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D024",
+      "kprocess": "D02.4",
       "code": "D02.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -2956,52 +2956,52 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D030",
+      "kprocess": "D03.0",
       "code": "D03.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D031",
+      "kprocess": "D03.1",
       "code": "D03.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D032",
+      "kprocess": "D03.2",
       "code": "D03.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D033",
+      "kprocess": "D03.3",
       "code": "D03.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D034",
+      "kprocess": "D03.4",
       "code": "D03.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D035",
+      "kprocess": "D03.5",
       "code": "D03.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D036",
+      "kprocess": "D03.6",
       "code": "D03.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D037",
+      "kprocess": "D03.7",
       "code": "D03.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D038",
+      "kprocess": "D03.8",
       "code": "D03.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D039",
+      "kprocess": "D03.9",
       "code": "D03.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3011,52 +3011,52 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D040",
+      "kprocess": "D04.0",
       "code": "D04.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D041",
+      "kprocess": "D04.1",
       "code": "D04.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D042",
+      "kprocess": "D04.2",
       "code": "D04.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D043",
+      "kprocess": "D04.3",
       "code": "D04.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D044",
+      "kprocess": "D04.4",
       "code": "D04.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D045",
+      "kprocess": "D04.5",
       "code": "D04.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D046",
+      "kprocess": "D04.6",
       "code": "D04.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D047",
+      "kprocess": "D04.7",
       "code": "D04.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D048",
+      "kprocess": "D04.8",
       "code": "D04.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D049",
+      "kprocess": "D04.9",
       "code": "D04.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3066,22 +3066,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D050",
+      "kprocess": "D05.0",
       "code": "D05.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D051",
+      "kprocess": "D05.1",
       "code": "D05.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D057",
+      "kprocess": "D05.7",
       "code": "D05.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D059",
+      "kprocess": "D05.9",
       "code": "D05.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3091,22 +3091,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D060",
+      "kprocess": "D06.0",
       "code": "D06.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D061",
+      "kprocess": "D06.1",
       "code": "D06.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D067",
+      "kprocess": "D06.7",
       "code": "D06.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D069",
+      "kprocess": "D06.9",
       "code": "D06.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3116,37 +3116,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D070",
+      "kprocess": "D07.0",
       "code": "D07.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D071",
+      "kprocess": "D07.1",
       "code": "D07.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D072",
+      "kprocess": "D07.2",
       "code": "D07.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D073",
+      "kprocess": "D07.3",
       "code": "D07.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D074",
+      "kprocess": "D07.4",
       "code": "D07.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D075",
+      "kprocess": "D07.5",
       "code": "D07.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D076",
+      "kprocess": "D07.6",
       "code": "D07.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3156,32 +3156,32 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D090",
+      "kprocess": "D09.0",
       "code": "D09.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D091",
+      "kprocess": "D09.1",
       "code": "D09.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D092",
+      "kprocess": "D09.2",
       "code": "D09.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D093",
+      "kprocess": "D09.3",
       "code": "D09.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D097",
+      "kprocess": "D09.7",
       "code": "D09.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D099",
+      "kprocess": "D09.9",
       "code": "D09.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3191,47 +3191,47 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D370",
+      "kprocess": "D37.0",
       "code": "D37.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D371",
+      "kprocess": "D37.1",
       "code": "D37.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D372",
+      "kprocess": "D37.2",
       "code": "D37.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D373",
+      "kprocess": "D37.3",
       "code": "D37.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D374",
+      "kprocess": "D37.4",
       "code": "D37.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D375",
+      "kprocess": "D37.5",
       "code": "D37.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D376",
+      "kprocess": "D37.6",
       "code": "D37.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D377",
+      "kprocess": "D37.7",
       "code": "D37.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D379",
+      "kprocess": "D37.9",
       "code": "D37.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3241,37 +3241,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D380",
+      "kprocess": "D38.0",
       "code": "D38.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D381",
+      "kprocess": "D38.1",
       "code": "D38.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D382",
+      "kprocess": "D38.2",
       "code": "D38.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D383",
+      "kprocess": "D38.3",
       "code": "D38.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D384",
+      "kprocess": "D38.4",
       "code": "D38.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D385",
+      "kprocess": "D38.5",
       "code": "D38.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D386",
+      "kprocess": "D38.6",
       "code": "D38.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3281,27 +3281,27 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D390",
+      "kprocess": "D39.0",
       "code": "D39.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D391",
+      "kprocess": "D39.1",
       "code": "D39.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D392",
+      "kprocess": "D39.2",
       "code": "D39.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D397",
+      "kprocess": "D39.7",
       "code": "D39.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D399",
+      "kprocess": "D39.9",
       "code": "D39.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3311,22 +3311,22 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D400",
+      "kprocess": "D40.0",
       "code": "D40.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D401",
+      "kprocess": "D40.1",
       "code": "D40.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D407",
+      "kprocess": "D40.7",
       "code": "D40.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D409",
+      "kprocess": "D40.9",
       "code": "D40.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3336,37 +3336,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D410",
+      "kprocess": "D41.0",
       "code": "D41.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D411",
+      "kprocess": "D41.1",
       "code": "D41.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D412",
+      "kprocess": "D41.2",
       "code": "D41.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D413",
+      "kprocess": "D41.3",
       "code": "D41.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D414",
+      "kprocess": "D41.4",
       "code": "D41.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D417",
+      "kprocess": "D41.7",
       "code": "D41.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D419",
+      "kprocess": "D41.9",
       "code": "D41.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3376,17 +3376,17 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D420",
+      "kprocess": "D42.0",
       "code": "D42.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D421",
+      "kprocess": "D42.1",
       "code": "D42.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D429",
+      "kprocess": "D42.9",
       "code": "D42.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3396,37 +3396,37 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D430",
+      "kprocess": "D43.0",
       "code": "D43.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D431",
+      "kprocess": "D43.1",
       "code": "D43.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D432",
+      "kprocess": "D43.2",
       "code": "D43.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D433",
+      "kprocess": "D43.3",
       "code": "D43.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D434",
+      "kprocess": "D43.4",
       "code": "D43.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D437",
+      "kprocess": "D43.7",
       "code": "D43.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D439",
+      "kprocess": "D43.9",
       "code": "D43.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3436,62 +3436,62 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D440",
+      "kprocess": "D44.0",
       "code": "D44.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D441",
+      "kprocess": "D44.1",
       "code": "D44.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D442",
+      "kprocess": "D44.2",
       "code": "D44.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D443",
+      "kprocess": "D44.3",
       "code": "D44.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D444",
+      "kprocess": "D44.4",
       "code": "D44.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D4440",
+      "kprocess": "D44.40",
       "code": "D44.40",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D4448",
+      "kprocess": "D44.48",
       "code": "D44.48",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D445",
+      "kprocess": "D44.5",
       "code": "D44.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D446",
+      "kprocess": "D44.6",
       "code": "D44.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D447",
+      "kprocess": "D44.7",
       "code": "D44.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D448",
+      "kprocess": "D44.8",
       "code": "D44.8",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D449",
+      "kprocess": "D44.9",
       "code": "D44.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3506,42 +3506,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D460",
+      "kprocess": "D46.0",
       "code": "D46.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D461",
+      "kprocess": "D46.1",
       "code": "D46.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D462",
+      "kprocess": "D46.2",
       "code": "D46.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D464",
+      "kprocess": "D46.4",
       "code": "D46.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D465",
+      "kprocess": "D46.5",
       "code": "D46.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D466",
+      "kprocess": "D46.6",
       "code": "D46.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D467",
+      "kprocess": "D46.7",
       "code": "D46.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D469",
+      "kprocess": "D46.9",
       "code": "D46.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3551,42 +3551,42 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D470",
+      "kprocess": "D47.0",
       "code": "D47.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D471",
+      "kprocess": "D47.1",
       "code": "D47.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D472",
+      "kprocess": "D47.2",
       "code": "D47.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D473",
+      "kprocess": "D47.3",
       "code": "D47.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D474",
+      "kprocess": "D47.4",
       "code": "D47.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D475",
+      "kprocess": "D47.5",
       "code": "D47.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D477",
+      "kprocess": "D47.7",
       "code": "D47.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D479",
+      "kprocess": "D47.9",
       "code": "D47.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
@@ -3596,57 +3596,57 @@
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D480",
+      "kprocess": "D48.0",
       "code": "D48.0",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D481",
+      "kprocess": "D48.1",
       "code": "D48.1",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D482",
+      "kprocess": "D48.2",
       "code": "D48.2",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D483",
+      "kprocess": "D48.3",
       "code": "D48.3",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D4830",
+      "kprocess": "D48.30",
       "code": "D48.30",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D4838",
+      "kprocess": "D48.38",
       "code": "D48.38",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D484",
+      "kprocess": "D48.4",
       "code": "D48.4",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D485",
+      "kprocess": "D48.5",
       "code": "D48.5",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D486",
+      "kprocess": "D48.6",
       "code": "D48.6",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D487",
+      "kprocess": "D48.7",
       "code": "D48.7",
       "codeSystem": "2.16.840.1.113883.6.3"
     },
     {
-      "kprocess": "D489",
+      "kprocess": "D48.9",
       "code": "D48.9",
       "codeSystem": "2.16.840.1.113883.6.3"
     },

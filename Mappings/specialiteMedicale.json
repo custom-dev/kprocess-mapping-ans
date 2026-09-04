@@ -1,5 +1,5 @@
 {
-  "name": "Specialité Médicale",
+  "name": "SpecialiteMedicale",
   "description": "Spécialité du professionnel de Santé",
   "tableName": "account.profil_professionnel_sante_specialite_enum",
   "jeuDeValeursANS": "JDV_J01_XdsAuthorSpecialty_CISIS",

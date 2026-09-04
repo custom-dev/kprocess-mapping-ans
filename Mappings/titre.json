@@ -1,42 +1,54 @@
 {
-    "name": "Titre",
-    "description": "Titre pour les professionnels de santé",
-    "tableName": "account.profil_professionnel_sante_titre_enum",
-    "jeuDeValeursANS": "JDV_J246_Titre_CISIS",
-    "ignoresValues": [
-        {"code": "PC", "codeSystem": "1.2.250.1.213.1.6.1.11"},
-        {"code": "PG", "codeSystem": "1.2.250.1.213.1.6.1.11"}
-    ],
-    "mapping": [
+  "name": "Titre",
+  "description": "Titre pour les professionnels de santé",
+  "tableName": "account.profil_professionnel_sante_titre_enum",
+  "jeuDeValeursANS": "JDV_J246_Titre_CISIS",
+  "ignoresValues": [
+    {
+      "code": "PC",
+      "codeSystem": "1.2.250.1.213.1.6.1.11"
+    },
+    {
+      "code": "PG",
+      "codeSystem": "1.2.250.1.213.1.6.1.11"
+    }
+  ],
+  "mapping": [
+    {
+      "kprocess": "Docteur",
+      "code": "DR",
+      "codeSystem": "1.2.250.1.213.1.6.1.11",
+      "additionalValues": [
         {
-            "kprocess": "Docteur",
-            "code": "DR",
-            "codeSystem": "1.2.250.1.213.1.6.1.11",
-            "additionalValues": [
-                {"code": "MC", "codeSystem": "1.2.250.1.213.1.6.1.11"},
-                {"code": "MG", "codeSystem": "1.2.250.1.213.1.6.1.11"}
-            ]
+          "code": "MC",
+          "codeSystem": "1.2.250.1.213.1.6.1.11"
         },
         {
-            "kprocess": "Professeur",
-            "code": "PR",
-            "codeSystem": "1.2.250.1.213.1.6.1.11"
-        },
-        {
-            "kprocess": "Interne",
-            "ignore": true
-        },
-        {
-            "kprocess": "FaisantFonctionInterne",
-            "ignore": true
-        },
-        {
-            "kprocess": "DocteurJunior",
-            "ignore": true
-        },
-        {
-            "kprocess": "PraticienAssocieContractuelTemporaire",
-            "ignore": true
+          "code": "MG",
+          "codeSystem": "1.2.250.1.213.1.6.1.11"
         }
-    ]
+      ]
+    },
+    {
+      "kprocess": "Professeur",
+      "code": "PR",
+      "codeSystem": "1.2.250.1.213.1.6.1.11"
+    },
+    {
+      "kprocess": "Interne",
+      "ignore": true
+    },
+    {
+      "kprocess": "FaisantFonctionInterne",
+      "ignore": true
+    },
+    {
+      "kprocess": "DocteurJunior",
+      "ignore": true
+    },
+    {
+      "kprocess": "PraticienAssocieContractuelTemporaire",
+      "ignore": true
+    }
+  ]
 }

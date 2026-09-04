@@ -1,5 +1,5 @@
 {
-  "name": "Etablissement TypeCode",
+  "name": "EtablissementTypeCode",
   "description": "Type Code identifiant le type d'etablissement de santé",
   "tableName": "dbo.etablissements_type_enum",
   "jeuDeValeursANS": "JDV_J02_XdsHealthcareFacilityTypeCode_CISIS",

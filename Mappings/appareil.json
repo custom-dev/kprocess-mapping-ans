@@ -2,7 +2,7 @@
   "name": "Appareil",
   "description": "Appareil touché par le cancer",
   "tableName": "dbo.tumeurs_appareils",
-  "jeuDeValeursANS": "JdvRcpAppareilCisis",
+  "jeuDeValeursANS": "jdv-rcp-appareil-cisis",
   "mapping": [
     {
       "kprocess": "VADS",

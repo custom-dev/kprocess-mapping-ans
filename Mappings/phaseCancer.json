@@ -2,7 +2,7 @@
   "name": "PhaseCancer",
   "description": "Phase actuelle du cancer",
   "tableName": "dbo.fiches_rcp_v2_phase_maladie_enum",
-  "jeuDeValeursANS": "JdvPhaseCancerCisis",
+  "jeuDeValeursANS": "jdv-phase-cancer-cisis",
   "ignoresValues": [],
   "mapping": [
     {

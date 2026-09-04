@@ -1,5 +1,5 @@
 {
-  "name": "Etablissement Practice Settings",
+  "name": "EtablissementPracticeSettings",
   "description": "Codes des Practice Settings correspondants aux établissements",
   "tableName": "dbo.etablissements_practice_settings_enum",
   "jeuDeValeursANS": "JDV_J04_XdsPracticeSettingCode_CISIS",
