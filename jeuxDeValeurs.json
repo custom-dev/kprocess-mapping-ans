@@ -80,7 +80,7 @@
       { "file": "etablissementTypeCode.json" },
       { "file": "etablissementPracticeSettings.json" },
       { "file": "genre.json" },      
-      { "file": "relationPatient.json"}
+      { "file": "relationPatient.json"},
       { "file": "lateralite.json" },
       { "file": "cim-o.json"}
     ]

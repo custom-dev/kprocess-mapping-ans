@@ -1,7 +1,7 @@
 {
   "name": "RelationPatient",
   "description": "Relation par rapport au patient",
-  "tableName": "core.patient_lien_enum",
+  "tableName": "patient.lien_patient_enum",
   "jeuDeValeursANS": "JDV_J11_RelationPatient_CISIS",
   "mapping": [
     {
