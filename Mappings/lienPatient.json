@@ -1,5 +1,5 @@
 {
-  "name": "RelationPatient",
+  "name": "LienPatient",
   "description": "Relation par rapport au patient",
   "tableName": "patient.lien_patient_enum",
   "jeuDeValeursANS": "JDV_J11_RelationPatient_CISIS",
