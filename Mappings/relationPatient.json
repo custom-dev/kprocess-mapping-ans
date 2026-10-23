@@ -1,0 +1,138 @@
+{
+  "name": "RelationPatient",
+  "description": "Relation par rapport au patient",
+  "tableName": "core.patient_lien_enum",
+  "jeuDeValeursANS": "JDV_J11_RelationPatient_CISIS",
+  "mapping": [
+    {
+      "kprocess": "MembreFamille",
+      "code": "FAMMEMB",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Enfant",
+      "code": "CHILD",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Fille",
+      "code": "DAUC",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Fils",
+      "code": "SONC",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "PetiteFille",
+      "code": "GRNDDAU",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "PetitFils",
+      "code": "GRNDSO",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Pere",
+      "code": "FTH",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Mere",
+      "code": "MTH",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "GrandPere",
+      "code": "GRFTH",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "GrandMere",
+      "code": "GRMTH",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "ArriereGrandPere",
+      "code": "GGRFTH",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "ArriereGrandMere",
+      "code": "GGRMTH",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Frere",
+      "code": "BRO",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Soeur",
+      "code": "SIS",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "DemiFrere",
+      "code": "HBRO",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "DemiSoeur",
+      "code": "HSIS",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Mari",
+      "code": "HUSB",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Femme",
+      "code": "WIFE",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Tante",
+      "code": "AUNT",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Oncle",
+      "code": "UNCLE",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Neveu",
+      "code": "NEPHEW",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Niece",
+      "code": "NIECE",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Cousin",
+      "code": "COUSN",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Concubin",
+      "code": "DOMPART",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "MemeToit",
+      "code": "ROOM",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    },
+    {
+      "kprocess": "Voisin",
+      "code": "NBOR",
+      "codeSystem": "2.16.840.1.113883.5.111"
+    }
+  ]
+}

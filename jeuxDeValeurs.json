@@ -62,6 +62,10 @@
     {
       "name": "JDV_J246_Titre_CISIS",
       "file": "JDV_J246_Titre_CISIS.xml"
+    },
+    {
+      "name": "JDV_J11_RelationPatient_CISIS",
+      "file": "JDV_J11_RelationPatient_CISIS.xml"
     }
   ],
     "mappings": [
@@ -75,7 +79,8 @@
       { "file": "specialiteMedicale.json" },
       { "file": "etablissementTypeCode.json" },
       { "file": "etablissementPracticeSettings.json" },
-      { "file": "genre.json" },
+      { "file": "genre.json" },      
+      { "file": "relationPatient.json"}
       { "file": "lateralite.json" },
       { "file": "cim-o.json"}
     ]
